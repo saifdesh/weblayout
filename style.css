@@ -79,3 +79,11 @@ nav {
     padding: 10px;
     align-items: center;
 }
+
+footer {
+    text-align: center;
+    margin-top: 200px;
+    background-color: gainsboro;
+    padding: 20px;
+    font-size: 1em;
+}
